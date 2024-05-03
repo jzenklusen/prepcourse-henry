@@ -1,2 +1,1 @@
-# prepcourse-henry
-Hola esto es un test
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi computadora
